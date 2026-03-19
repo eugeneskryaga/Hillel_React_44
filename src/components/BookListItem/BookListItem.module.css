@@ -1,0 +1,14 @@
+.bookListItem {
+    width: 250px;
+    height: 350px;
+    background-color: lightpink;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.bookListItem button {
+    font-size: 18px;
+    font-weight: 600;
+    background-color: palevioletred;
+    border-radius: 8px;
+}
